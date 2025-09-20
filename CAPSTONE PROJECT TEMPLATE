@@ -34,12 +34,12 @@ How will you deploy your project
             AUTO AID
    Description
 This is an app that is designed to help car owners deal with vehicle mechanical errrors.
-People will be able to upload photos and videos to help the web app understand their problem.
-People can also describe their problem and receive help.
+People will describe their problem and receive help.
 It will help people connect with credible and qualified shops and mechanics around them.
 The web app solves the problem of troublesome car maintenance.
     TOOLS USED
 Python.
+Lovable.
     REASON
 It is reliable and very convinient.
 It is the only tool so far well interacted with.
